@@ -62,6 +62,11 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:9000",
 ]
 
+REST_FRAMEWORK = {
+
+    'DATETIME_FORMAT': "%Y-%m-%d %H:%M:%S",
+}
+
 ROOT_URLCONF = 'ofan.urls'
 
 TEMPLATES = [

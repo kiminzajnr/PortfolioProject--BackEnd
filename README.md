@@ -12,11 +12,11 @@ Orphanages have been neglected and only a few people, and mostly churches are le
 
 ---
 
-[!Api root!](img/apiroot.png "api root")
+![Api root!](img/apiroot.png "api root")
 
 ---
 
-[!Homes list!](img/homelist.png "homes list")
+![Homes list!](img/homelist.png "homes list")
 
 ---
 

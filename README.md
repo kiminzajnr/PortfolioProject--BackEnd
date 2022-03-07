@@ -15,6 +15,7 @@ Orphanages have been neglected and only a few people, and mostly churches are le
 > POST
 > - add a home or simply register a new home you know
 > - plan a visit by stating; the name of home you want to visit, your name and visit date.
+
 > GET
 > - List of Homes registered
 > - people visiting specific homes on specific dates
